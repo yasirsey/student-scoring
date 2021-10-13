@@ -1,0 +1,13 @@
+.form-control:focus {
+    border-color: green;
+    box-shadow: none;
+}
+
+.form-select:focus {
+    border-color: green;
+    box-shadow: none;
+}
+
+.btn:focus {
+    box-shadow: none;
+}
